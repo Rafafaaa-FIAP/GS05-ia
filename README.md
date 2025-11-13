@@ -90,3 +90,11 @@ Essa abordagem ilustra o potencial da **educação tecnológica e da análise de
 Instale todas as bibliotecas com o comando:
 ```bash
 pip install -r requirements.txt
+```
+
+---
+
+## 🧑‍💻 Integrantes
+* RM553377 - Enzo Rodrigues
+* RM553266 - Hugo Santos
+* RM553521 - Rafael Cristofali
