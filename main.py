@@ -1,11 +1,3 @@
-# future_of_work_model_cv_all.py
-# ---------------------------------------------------------------
-# Projeto: O Futuro do Trabalho - Predição de Prosperidade Regional
-# Autor: Rafael Cristofali
-# Descrição: Aplicação de Machine Learning com validação cruzada,
-#            regularização e exibição de todos os modelos
-# ---------------------------------------------------------------
-
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
